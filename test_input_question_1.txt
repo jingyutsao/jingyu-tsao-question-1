@@ -1,0 +1,18 @@
+That dog is so cute
+Hello World
+Biology is fun",
+The quick brown fox",
+a b c d e",
+
+SingleWord
+  Leading and trailing spaces  
+   
+A mix of CAPITAL and lowercase
+The  sentence  with  two  space
+There is a rabbit ?!
+狗狗好可愛
+你好 世界
+字
+  前後空格  
+你說，要有標點符號。
+上海自來水來自海上
